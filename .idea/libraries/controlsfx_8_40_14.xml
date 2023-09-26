@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="controlsfx-8.40.14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/controlsfx-8.40.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
